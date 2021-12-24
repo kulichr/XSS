@@ -1,2 +1,2 @@
 # XSS
-Personal list of XSS paylods for pentesting & bug bounty.
+Personal list of XSS paylods for pentesting & bug bounty :)
